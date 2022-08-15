@@ -3,6 +3,7 @@
 	"author": "Qais Aziz",
 	"description": "tA project that does something awesome",
 	"keywords": ["freecodecamp", "related", "words"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.18.1"
 	},
