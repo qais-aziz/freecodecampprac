@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Qais Aziz",
 	"description": "tA project that does something awesome",
+	"keywords": ["freecodecamp", "related", "words"],
 	"dependencies": {
 		"express": "^4.18.1"
 	},
