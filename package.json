@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Qais Aziz",
+	"description": "this is my practice project",
 	"dependencies": {
 		"express": "^4.18.1"
 	},
@@ -11,6 +12,5 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	},
-	"description": "this is my practice project"
+	}
 }
